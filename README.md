@@ -1,16 +1,17 @@
 # app_distribution
+Demo APP (Counter App) with app distribution.
+# steps
+- create project on editor .
+- create project on firebase.
+- apply firebase to app (link app with firebase )
+- run app and get apk.
+- enable app distribution.
+- upload apk.
+- add gmail of tester.
+- it send app to the tester to download and test it .
+  ## project id on firebase
+  app-distribution-79413
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  ## screenshot
+  ![Screenshot (201)](https://github.com/user-attachments/assets/d1341ebb-bb87-465a-8524-56caa31b037f)
+![Screenshot (200)](https://github.com/user-attachments/assets/1ba3a825-6c1f-497b-8dc4-7fbff9d79382)
